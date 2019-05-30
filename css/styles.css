@@ -22,3 +22,9 @@ h1 {
 .column h1 {
   font-size: 20px;
 }
+
+.titlebox {
+  margin: 12px;
+  border: 2px solid black;
+  padding: 5px;
+}
